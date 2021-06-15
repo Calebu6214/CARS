@@ -10,3 +10,9 @@ ABOUT CARS
 ## License
 
 ## Contact Information
+
+| Types of Cars |      Audi     |  Toyota     |  Mercedes |
+| ------------- |:-------------:| -----------:| ---------:|
+|               |               |             |           |
+|               |               |             |           |
+|               |               |             |           |
